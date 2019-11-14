@@ -1,2 +1,2 @@
 var info = 2;
-console.log(info);
+console.log("was geht ab?");
